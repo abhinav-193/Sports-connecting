@@ -13,15 +13,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/hotaanubhab/Sportify-Daedarus-Hack-2021">
-    <img src="https://github.com/hotaanubhab/Sportify-Daedarus-Hack-2021/blob/main/public/images/sportifymin.png" alt="Logo" width="100" height="80">
-  </a>
 
-  <h3 align="center">Sportify</h3>
-  <p align="center">
-  Set Events . Join Events . Play!
-</p>
 
 ***
 
@@ -58,8 +50,6 @@ to make them interested in sports again.
 Sportify is a unique platform which the user can use to find like minded workout buddies or even running partners to share your goals and achievements with.
 You can make your own sport events or find your required event anywhere or near you and join your companion.
 
-<p align='center'><img src=https://github.com/hotaanubhab/Sportify-Daedarus-Hack-2021/blob/main/public/images/Hnet-image%20(1).gif>
-<p align="center">
 
 ### Built With
 
@@ -76,10 +66,7 @@ You can make your own sport events or find your required event anywhere or near 
 <!-- GETTING STARTED -->
 # Getting Started
 
-## Video Demonstration:
-[![forthebadge](https://img.shields.io/badge/click-link-lightgrey)](https://forthebadge.com)
-  
-[![Sportify-Daedarus-Hack-2021](https://img.youtube.com/vi/WwMEvS-CH7k/0.jpg)](https://www.youtube.com/watch?v=WwMEvS-CH7k)
+
 
 
 ***
@@ -114,21 +101,6 @@ Deployed using [Heroku](https://sportifyt5.herokuapp.com/)
   ```
 
 
-### Installation
-
-    $ git clone https://github.com/hotaanubhab/Sportify-Daedarus-Hack-2021.git
-    $ cd Sportify-Daedarus-Hack-2021.
-    $ npm install
-    
-
-<!-- USAGE EXAMPLES -->
-## Running
-
-    nodemon
-     //or
-    node app.js
-  
-  ***
   
 ## How To Use
   
